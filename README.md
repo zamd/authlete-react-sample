@@ -42,6 +42,10 @@ const oidcConfig = {
 2. Authenticate using the provided authentication flow.
 3. Upon successful authentication, navigate through the authenticated views to see the functionality.
 
+## Demo
+
+[Watch the video](https://github.com/zamd/authlete-react-sample/assets/1377205/98bbb661-6678-48f5-baa1-477ed8bc2f8f)
+
 ## Future Enhancements
 
 In the future, the sample will be extended to include the following features:
